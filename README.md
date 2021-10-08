@@ -1,2 +1,2 @@
-# RandevuAlmaProjesi
-Bu proje küçük çaplı bir randevu alma sistemidir.
+# AppointmentMakingProject
+This project is a small-scale appointment system.
