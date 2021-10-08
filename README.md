@@ -124,4 +124,4 @@ And I completed the program.
 
 First of all, the program asks us for the number of the operation we want to do.
 
-Your Choise!
+Your Choice!
